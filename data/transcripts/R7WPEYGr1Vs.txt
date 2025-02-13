@@ -1,0 +1,127 @@
+00:00:07.168 On a December afternoon in Chicagoduring the middle of World War II,
+00:00:11.429 scientists cracked open the nucleusat the center of the uranium atom
+00:00:16.140 and turned nuclear mass into energyover and over again.
+00:00:22.099 They did this by creating for the first time
+00:00:24.250 a chain reaction inside a newengineering marvel:
+00:00:28.402 the nuclear reactor.
+00:00:31.460 Since then, the ability to mine greatamounts of energy from uranium nuclei
+00:00:36.000 has led some to bill nuclear power
+00:00:38.449 as a plentiful utopiansource of electricity.
+00:00:43.918 A modern nuclear reactor generates enoughelectricity from one kilogram of fuel
+00:00:48.550 to power an average American householdfor nearly 34 years.
+00:00:53.801 But rather than dominate the globalelectricity market,
+00:00:56.720 nuclear power has declined froman all-time high of 18% in 1996
+00:01:02.620 to 11% today.
+00:01:05.540 And it's expected to drop furtherin the coming decades.
+00:01:09.121 What happened to the great promiseof this technology?
+00:01:12.581 It turns out nuclear power faces many hurdles,
+00:01:15.632 including high construction costs
+00:01:17.621 and public opposition.
+00:01:19.790 And behind these problems lie a series of unique engineering challenges.
+00:01:25.343 Nuclear power relies on the fissionof uranium nuclei
+00:01:28.671 and a controlled chain reaction
+00:01:31.123 that reproduces this splittingin many more nuclei.
+00:01:35.131 The atomic nucleus is densely packedwith protons and neutrons
+00:01:39.172 bound by a powerful nuclear force.
+00:01:42.563 Most uranium atoms have a totalof 238 protons and neutrons,
+00:01:47.832 but roughly one in every 140lacks three neutrons,
+00:01:52.253 and this lighter isotope is lesstightly bound.
+00:01:56.311 Compared to its more abundant cousin,
+00:01:58.613 a strike by a neutron easily splitsthe U-235 nuclei
+00:02:03.183 into lighter, radioactive elementscalled fission products,
+00:02:07.463 in addition to two to three neutrons,
+00:02:09.282 gamma rays,
+00:02:10.473 and a few neutrinos.
+00:02:12.513 During fission, some nuclear masstransforms into energy.
+00:02:16.532 A fraction of the newfound energypowers the fast-moving neutrons,
+00:02:20.805 and if some of them strike uranium nuclei,
+00:02:23.223 fission results in a second larger generation of neutrons.
+00:02:27.713 If this second generation of neutronsstrike more uranium nuclei,
+00:02:31.643 more fission results in an evenlarger third generation, and so on.
+00:02:37.023 But inside a nuclear reactor,
+00:02:38.644 this spiraling chain reaction is tamedusing control rods
+00:02:43.775 made of elements that capture excess neutrons and keep their number in check.
+00:02:49.084 With a controlled chain reaction,
+00:02:50.834 a reactor draws power steadilyand stably for years.
+00:02:55.804 The neutron-led chain reactionis a potent process driving nuclear power,
+00:03:00.373 but there's a catch that can result
+00:03:02.115 in unique demands on the production of its fuel.
+00:03:05.267 It turns out, most of the neutrons emittedfrom fission have too much kinetic energy
+00:03:09.987 to be captured by uranium nuclei.
+00:03:12.856 The fission rate is too lowand the chain reaction fizzles out.
+00:03:17.117 The first nuclear reactor built in Chicagoused graphite as a moderator
+00:03:21.987 to scatter and slow down neutrons just enough
+00:03:24.884 to increase their capture by uraniumand raise the rate of fission.
+00:03:29.924 Modern reactors commonly usepurified water as a moderator,
+00:03:34.118 but the scattered neutrons are stilla little too fast.
+00:03:38.254 To compensate and keep up the chain reaction,
+00:03:40.586 the concentration of U-235 is enriched
+00:03:44.087 to four to seven times its natural abundance.
+00:03:47.766 Today, enrichment is often done bypassing a gaseous uranium compound
+00:03:52.078 through centrifuges
+00:03:53.767 to separate lighter U-235 from heavier U-238.
+00:03:59.017 But the same process can be continuedto highly enrich U-235
+00:04:03.157 up to 130 times its natural abundance
+00:04:06.647 and create an explosive chain reactionin a bomb.
+00:04:11.667 Methods like centrifuge processingmust be carefully regulated
+00:04:15.448 to limit the spread of bomb-grade fuel.
+00:04:19.586 Remember, only a fraction of the released fission energy
+00:04:22.287 goes into speeding up neutrons.
+00:04:24.708 Most of the nuclear power goes into thekinetic energy of the fission products.
+00:04:29.777 Those are captured inside the reactoras heat by a coolant,
+00:04:34.179 usually purified water.
+00:04:36.574 This heat is eventually used to drivean electric turbine generator by steam
+00:04:41.808 just outside the reactor.
+00:04:43.798 Water flow is critical not only to create electricity,
+00:04:46.680 but also to guard against the most dreadedtype of reactor accident,
+00:04:50.780 the meltdown.
+00:04:52.468 If water flow stops because a pipecarrying it breaks,
+00:04:55.919 or the pumps that push it fail,
+00:04:57.960 the uranium heats up very quicklyand melts.
+00:05:01.497 During a nuclear meltdown,
+00:05:03.059 radioactive vapors escape into the reactor,
+00:05:05.929 and if the reactor fails to hold them,
+00:05:07.948 a steel and concrete containment buildingis the last line of defense.
+00:05:13.218 But if the radioactive gas pressureis too high,
+00:05:16.109 containment fails and the gassesescape into the air,
+00:05:19.780 spreading as far and wide as the wind blows.
+00:05:23.899 The radioactive fission productsin these vapors
+00:05:26.289 eventually decay into stable elements.
+00:05:29.952 While some decay in a few seconds,
+00:05:31.960 others take hundreds of thousands of years.
+00:05:35.350 The greatest challenge for a nuclear reactor
+00:05:37.418 is to safely contain these products
+00:05:39.829 and keep them from harming humansor the environment.
+00:05:43.870 Containment doesn't stop matteringonce the fuel is used up.
+00:05:47.620 In fact, it becomes an even greaterstorage problem.
+00:05:51.031 Every one to two years,
+00:05:52.351 some spent fuel is removed from reactors
+00:05:55.830 and stored in pools of water that cool the waste
+00:05:59.121 and block its radioactive emissions.
+00:06:02.399 The irradiated fuel is a mix of uraniumthat failed to fission,
+00:06:06.010 fission products,
+00:06:07.670 and plutonium, a radioactive materialnot found in nature.
+00:06:12.850 This mix must be isolated fromthe environment
+00:06:15.523 until it has all safely decayed.
+00:06:18.041 Many countries propose deep time storagein tunnels drilled far underground,
+00:06:23.682 but none have been built,
+00:06:25.212 and there's great uncertainty abouttheir long-term security.
+00:06:29.092 How can a nation that has existedfor only a few hundred years
+00:06:32.200 plan to guard plutoniumthrough its radioactive half-life
+00:06:36.112 of 24,000 years?
+00:06:38.772 Today, many nuclear power plantssit on their waste, instead,
+00:06:42.584 storing them indefinitely on site.
+00:06:46.023 Apart from radioactivity, there's aneven greater danger with spent fuel.
+00:06:50.601 Plutonium can sustain a chain reaction
+00:06:53.023 and can be mined from the wasteto make bombs.
+00:06:57.035 Storing spent fuel is thus not onlya safety risk for the environment,
+00:07:00.932 but also a security risk for nations.
+00:07:15.076 Who should be the watchmen to guard it?
+00:07:18.488 Visionary scientists from the early yearsof the nuclear age
+00:07:21.883 pioneered how to reliably tap the tremendous amount of energy
+00:07:26.044 inside an atom -
+00:07:27.903 as an explosive bomb
+00:07:30.113 and as a controlled power sourcewith incredible potential.
+00:07:34.272 But their successors have learnedhumbling insights
+00:07:37.053 about the technology's not-so-utopianindustrial limits.
+00:07:41.834 Mining the subatomic realm makes forcomplex, expensive, and risky engineering.
