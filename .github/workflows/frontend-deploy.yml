@@ -29,7 +29,9 @@ jobs:
       - name: Deploy to Railway
         run: |
           cd frontend
-          railway link ${{ secrets.RAILWAY_PROJECT_ID }} --environment production
-          railway up --service frontend -d
+          railway project
+          railway link
+          railway up
         env:
           RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+          RAILWAY_PROJECT_ID: ${{ secrets.RAILWAY_PROJECT_ID }}
