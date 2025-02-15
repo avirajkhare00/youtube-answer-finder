@@ -1,10 +1,10 @@
 [[services]]
 name = "yt-answer-finder"
-directory = "backend"
+directory = "."
 
 [services.build]
 builder = "DOCKERFILE"
-dockerfile = "Dockerfile"
+dockerfile = "backend/Dockerfile"
 
 [services.deploy]
 healthcheckPath = "/"

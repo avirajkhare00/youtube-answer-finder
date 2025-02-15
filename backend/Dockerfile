@@ -1,9 +1,9 @@
 # Build frontend
 FROM node:18-alpine as frontend-builder
 WORKDIR /frontend
-COPY ../frontend/package*.json ./
+COPY frontend/package*.json ./
 RUN npm install
-COPY ../frontend/ ./
+COPY frontend/ ./
 RUN npm run build
 
 # Build backend
@@ -11,9 +11,9 @@ FROM node:18-alpine
 WORKDIR /app
 
 # Copy backend files
-COPY package*.json ./
+COPY backend/package*.json ./
 RUN npm install
-COPY . .
+COPY backend/ .
 
 # Copy frontend build
 COPY --from=frontend-builder /frontend/build ./public
