@@ -3,11 +3,10 @@ name = "backend"
 directory = "backend"
 
 [services.build]
-builder = "nixpacks"
-buildCommand = "npm install"
+builder = "DOCKERFILE"
+dockerfile = "Dockerfile"
 
 [services.deploy]
-startCommand = "npm start"
 healthcheckPath = "/"
 healthcheckTimeout = 100
 restartPolicyType = "ON_FAILURE"
@@ -18,11 +17,10 @@ name = "frontend"
 directory = "frontend"
 
 [services.build]
-builder = "nixpacks"
-buildCommand = "npm install && npm run build"
+builder = "DOCKERFILE"
+dockerfile = "Dockerfile"
 
 [services.deploy]
-startCommand = "npx serve -s build"
 healthcheckPath = "/"
 healthcheckTimeout = 100
 restartPolicyType = "ON_FAILURE"
