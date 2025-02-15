@@ -35,7 +35,7 @@ app.post('/search', async (req, res) => {
     
     // Generate embedding for the query
     const embedding = await openai.embeddings.create({
-      model: "text-embedding-3-small",
+      model: "text-embedding-ada-002",
       input: query,
     });
 
