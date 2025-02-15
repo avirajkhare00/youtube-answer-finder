@@ -1,0 +1,35 @@
+name: Deploy Frontend
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'frontend/**'
+      - '.github/workflows/frontend-deploy.yml'
+  workflow_dispatch:
+
+env:
+  RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+
+jobs:
+  deploy:
+    name: Deploy Frontend to Railway
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Install Railway CLI
+        run: |
+          curl -fsSL https://railway.app/install.sh | sh
+          echo "$HOME/.railway/bin" >> $GITHUB_PATH
+
+      - name: Deploy to Railway
+        run: |
+          cd frontend
+          railway link ${{ secrets.RAILWAY_PROJECT_ID }} --environment production
+          railway up --service frontend -d
+        env:
+          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
