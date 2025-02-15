@@ -69,26 +69,30 @@ function App() {
       )}
 
       {result && (
-        <Card>
-          <CardContent>
-            <Typography variant="h6" gutterBottom>
-              Found an answer!
-            </Typography>
-            <Typography variant="body1" paragraph>
-              {result.text}
-            </Typography>
-            <Link
-              href={result.video_url}
-              target="_blank"
-              rel="noopener noreferrer"
-              variant="button"
-              display="block"
-              sx={{ mt: 2 }}
-            >
-              Watch Video at {Math.floor(result.start_time / 60)}:{(result.start_time % 60).toString().padStart(2, '0')}
-            </Link>
-          </CardContent>
-        </Card>
+        <Box sx={{ display: 'flex', flexDirection: 'column', gap: 2 }}>
+          <Typography variant="h6" gutterBottom>
+            Found {result.length} relevant answers:
+          </Typography>
+          {result.map((item, index) => (
+            <Card key={index}>
+              <CardContent>
+                <Typography variant="body1" paragraph>
+                  {item.text}
+                </Typography>
+                <Link
+                  href={item.video_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  variant="button"
+                  display="block"
+                  sx={{ mt: 2 }}
+                >
+                  Watch Video at {Math.floor(item.start_time / 60)}:{(item.start_time % 60).toString().padStart(2, '0')}
+                </Link>
+              </CardContent>
+            </Card>
+          ))}
+        </Box>
       )}
     </Container>
   );

@@ -1,0 +1,575 @@
+00:00:00.450 What if, all
+00:00:01.590 of the world's biggest problems from climate change,
+00:00:04.170 to curing diseases, to disposal of plastic waste,
+00:00:07.800 what if they all had the same solution?
+00:00:10.590 A solution so tiny it would be invisible.
+00:00:14.040 I'm inclined to believe this is possible,
+00:00:16.170 thanks to a recent breakthrough that solved one
+00:00:18.300 of the biggest problems of the last century.
+00:00:21.000 How to determine the structure of a protein?
+00:00:23.670 - It's been described to me as equivalent
+00:00:25.530 to Fermat's last theorem, but for biology.
+00:00:28.410 - Over six decades, tens of thousands
+00:00:30.540 of biologists painstakingly worked out
+00:00:32.549 the structure of 150,000 proteins.
+00:00:35.782 Then in just a few years, a team of
+00:00:38.670 around 15 determined the structure of 200 million.
+00:00:42.990 That's basically every protein known to exist in nature.
+00:00:46.650 So how did they do it
+00:00:48.360 and why does this have the potential
+00:00:49.950 to solve problems way outside the realm of biology?
+00:00:55.940 A protein starts simply as a string of amino acids.
+00:00:59.610 Each amino acid has a carbon atom at the center.
+00:01:02.250 Then on one side is an amine group,
+00:01:04.319 and on the other side is a carboxyl group.
+00:01:07.200 And the last thing it's bonded to could be one
+00:01:09.210 of 20 different side chains,
+00:01:11.460 and which one determines which
+00:01:13.200 of the 20 different amino acids this molecule is.
+00:01:17.456 The amine group from one amino acid can react
+00:01:20.130 with the carboxyl group of another to form a peptide bond.
+00:01:23.970 So a series of amino acids can bond to form a string
+00:01:27.870 and pushing and pulling
+00:01:29.100 between countless molecules, electrostatic forces,
+00:01:31.950 hydrogen bonds, solvent interactions
+00:01:34.470 can cause this string to coil up and fold onto itself.
+00:01:37.770 This ultimately determines the 3D structure of the protein.
+00:01:41.940 And this shape is the thing
+00:01:43.350 that really matters about the protein.
+00:01:45.840 It's built for a specific purpose,
+00:01:48.060 like how hemoglobin has the perfect binding site
+00:01:50.430 to carry around oxygen in your blood.
+00:01:53.790 - These are machines, they need
+00:01:55.140 to be in their correct orientation in order to work together
+00:01:58.530 to move, for example, the proteins in your muscles.
+00:02:01.080 They change their shape a little bit
+00:02:02.460 in order to pull and contract.
+00:02:04.410 - But it would take people a long time
+00:02:06.780 to get the structure of just one protein.
+00:02:08.850 - Absolutely.
+00:02:09.683 So what should proteins look like?
+00:02:11.580 Was only started to answer really
+00:02:12.930 with experimental techniques.
+00:02:15.060 - [Derek] The first way protein structure was determined
+00:02:17.190 was by creating a crystal out of that protein.
+00:02:20.310 This was then exposed to x-rays
+00:02:22.260 to get a diffraction pattern,
+00:02:24.270 and then scientists would work backwards
+00:02:26.310 to try to figure out what shape
+00:02:27.780 of molecules would create such a pattern.
+00:02:31.680 It took British biochemist, John Kendrew, 12 years
+00:02:34.530 to get the first protein structure.
+00:02:36.660 His target was an oxygen storing protein called myoglobin,
+00:02:40.230 an important protein in our hearts.
+00:02:43.170 He first tried a horse heart,
+00:02:45.090 but this produced rather small crystals
+00:02:46.890 because it didn't have enough myoglobin.
+00:02:49.920 He knew diving mammals would have lots
+00:02:52.110 of myoglobin in their muscles
+00:02:53.490 since they're the best at conserving oxygen.
+00:02:55.890 So he obtained a huge chunk of whale meat from Peru.
+00:02:59.970 This finally gave Kendrew large enough crystals
+00:03:02.190 to create an x-ray diffraction image.
+00:03:04.980 - And when it came out, it looked really weird.
+00:03:07.410 People expected something
+00:03:08.700 kind of logical, mathematical, understandable,
+00:03:11.310 and it almost looked, I wouldn't say ugly, but intricate
+00:03:14.370 and complex and kind
+00:03:15.600 of like if you see a rocket motor,
+00:03:18.330 and all the parts hanging off.
+00:03:20.010 - [Derek] This structure, which has been called
+00:03:21.697 "Turd of the century,"
+00:03:23.370 won Kendrew, the 1962 Nobel Prize in chemistry.
+00:03:28.230 Over the next two decades,
+00:03:29.520 only around a hundred more structures were resolved.
+00:03:32.850 Even today, protein crystallization remains a big challenge.
+00:03:36.990 - Frankly it is not uncommon
+00:03:38.790 that just a couple protein structures
+00:03:41.070 can be someone's entire PhD.
+00:03:42.690 Sometimes just one, sometimes even just progress toward one,
+00:03:46.200 - And it's expensive.
+00:03:47.460 X-ray crystallography can cost 10s of thousands
+00:03:50.100 of dollars per protein.
+00:03:52.110 So scientists sought another way
+00:03:53.820 to work out protein structure.
+00:03:55.380 It only costs around a hundred dollars
+00:03:57.570 to find a protein sequence of amino acids.
+00:04:00.240 So if you could use this to figure out
+00:04:02.070 how the protein would fold,
+00:04:03.480 that would save a lot of time, effort, and money.
+00:04:07.110 I kind of know how carbon behaves
+00:04:08.520 and I know how carbon sticks to a sulfur
+00:04:10.140 and how that might stick next to a nitrogen.
+00:04:12.780 And if these ones are here,
+00:04:13.710 then I can imagine this one folding, making that bond there.
+00:04:15.930 So it seems like if you have some sense
+00:04:17.640 of basic molecular dynamics, you might be able to figure out
+00:04:21.630 how this protein's gonna fold.
+00:04:22.800 - One of the few true predictions in biology
+00:04:25.230 was actually Linus Pauling looking at just the geometry
+00:04:28.260 of the building blocks of proteins
+00:04:29.337 and saying, actually they should make helices and sheets.
+00:04:32.880 That's what we call secondary structure,
+00:04:34.470 the very local kind of twists and turns of the protein.
+00:04:37.800 - But beyond helices and sheets,
+00:04:39.570 biochemists could not figure out any reliable patterns
+00:04:42.840 that would lead to the final structure of all proteins.
+00:04:46.200 One reason for this is that evolution didn't design proteins
+00:04:49.440 from the ground up.
+00:04:50.730 - It's kind of like a programmer
+00:04:52.860 that doesn't know what they're doing,
+00:04:54.030 and whenever it looked good,
+00:04:54.990 they just kept adding that kind of thing.
+00:04:56.550 And that's how you end up
+00:04:57.960 with these both amazing objects
+00:04:59.610 and incredibly complex and hard to describe.
+00:05:02.010 They don't have purpose underneath them in the same way
+00:05:05.040 as like a human designed machine would.
+00:05:08.970 - [Derek] To illustrate just how complicated this process
+00:05:11.460 can get, MIT biologist Cyrus Levinthal did
+00:05:14.640 a back-of-the-envelope calculation,
+00:05:16.680 and he showed that even a short protein chain
+00:05:18.930 with 35 amino acids can fold
+00:05:21.330 in an astronomical number of ways.
+00:05:24.780 So even if a computer checked the energy instability
+00:05:27.480 of 30,000 configurations every nanosecond,
+00:05:30.660 it would take 200 times the age of the universe
+00:05:33.960 to find the correct structure.
+00:05:37.894 Refusing to give up,
+00:05:39.660 the University of Maryland professor John Moult
+00:05:41.700 started a competition called CASP in 1994.
+00:05:45.630 The challenge was simple, to design a computer model
+00:05:48.600 that could take an amino acid sequence
+00:05:50.520 and output its structure.
+00:05:52.710 The modelers would not know the correct structure
+00:05:55.440 beforehand, but the output from each model would be compared
+00:05:59.040 to the experimentally determined structure.
+00:06:02.511 A perfect match would get a score of a hundred,
+00:06:04.860 but anything over 90 was considered close enough
+00:06:07.560 that the structure was solved.
+00:06:09.810 CASP competitors gathered at an old wooden chapel
+00:06:12.480 turned conference center in Monterey, California,
+00:06:15.480 and at any point where a prediction didn't make sense,
+00:06:17.910 they were encouraged to tap their feet as friendly banter.
+00:06:21.540 There was a lot of foot tapping.
+00:06:23.849 (foot tapping)
+00:06:25.680 In the first year, teams could not achieve scores
+00:06:28.290 higher than 40.
+00:06:30.000 The early front runner was an algorithm called Rosetta,
+00:06:33.270 created by University of Washington biologist David Baker.
+00:06:37.050 One of his innovations was to boost computation
+00:06:39.660 by pooling together processing power from idle computers
+00:06:42.870 in homes, schools, and libraries that volunteered
+00:06:45.990 to install his software called Rosetta at Home.
+00:06:49.440 - As part of it, there was a screensaver
+00:06:51.090 that showed basically the course
+00:06:52.440 of the protein folding calculation.
+00:06:55.650 And then we started getting people writing in saying
+00:06:57.810 that they were watching the screensaver
+00:06:59.730 and they thought they could do better than the computer.
+00:07:02.550 - So Baker had an idea.
+00:07:04.350 He created a video game.
+00:07:06.487 (upbeat music)
+00:07:08.640 The game called Fold It,
+00:07:10.110 set up a protein chain capable of twisting
+00:07:12.510 and turning into different arrangements.
+00:07:14.970 - But now instead of the computer making the moves,
+00:07:17.940 the game players, the humans could make the moves.
+00:07:20.220 - Within three weeks,
+00:07:21.300 more than 50,000 gamers pooled
+00:07:23.400 their efforts to decipher an enzyme
+00:07:25.140 that plays a key role in HIV.
+00:07:27.600 X-Ray crystallography showed their result was correct.
+00:07:30.720 The gamers even got credited
+00:07:32.310 as co-authors on the research paper.
+00:07:36.120 Now, one man who played Fold It
+00:07:37.800 was a former child chess prodigy named Demis Hassabis.
+00:07:41.340 Hassabis had recently started an AI company called DeepMind.
+00:07:45.180 Their AI algorithm, AlphaGo made headlines
+00:07:47.880 for beating world champion Lee Sedol at the game of Go.
+00:07:51.690 One of AlphaGo's moves, move 37, shook Sedol to his core.
+00:07:56.820 But Hassabis never forgot about his time as a Fold It gamer.
+00:08:00.720 - So of course I was fascinated this
+00:08:02.280 just from games design perspective.
+00:08:03.750 You know, wouldn't it be amazing if we could mimic
+00:08:05.880 the intuition of these gamers who were only, by the way,
+00:08:08.940 of course, amateur biologists.
+00:08:11.130 - After returning from Korea,
+00:08:12.870 DeepMind researchers had a week-long hackathon
+00:08:15.030 where they tried to train AI to play Fold It.
+00:08:18.270 This was the beginning of Hassabis' longstanding goal
+00:08:21.270 of using AI to advance science.
+00:08:23.700 He initiated a new project called Alpha Fold
+00:08:26.520 to solve the protein folding problem.
+00:08:30.030 Meanwhile at CASP, the quality
+00:08:31.920 of prediction from the best performers,
+00:08:33.450 including Rosetta had plateaued.
+00:08:36.240 In fact, the performance went downhill after CASP eight.
+00:08:40.890 The predictions weren't good enough,
+00:08:42.360 even with faster computers
+00:08:43.830 and a growing number of structures
+00:08:45.330 in the protein data bank to train on.
+00:08:48.390 DeepMind hoped to change this with AlphaFold.
+00:08:52.380 Its first iteration, AlphaFold 1,
+00:08:54.540 was a standard off-the-shelf deep neural network like
+00:08:57.060 the ones used for computer vision at that time.
+00:08:59.880 The researchers trained it on lots
+00:09:01.920 and lots of protein structures from the protein data bank.
+00:09:05.580 As input, AlphaFold took the protein's amino acid sequence
+00:09:09.060 and an important set of clues given by evolution.
+00:09:13.680 Evolution is driven by mutations,
+00:09:15.810 changes in the genetic code,
+00:09:17.160 which in turn change the amino acids
+00:09:19.440 within a given protein sequence.
+00:09:21.600 But as species evolve, proteins need to retain the shape
+00:09:24.690 that allows them to perform their specific function.
+00:09:27.270 For instance, hemoglobin looks the same in humans, cats,
+00:09:30.720 horses, and basically any mammal.
+00:09:33.150 Evolution says, if it ain't broke, don't fix it.
+00:09:36.270 So we can compare sequences
+00:09:37.950 of the same protein across different species
+00:09:40.170 in this evolutionary table.
+00:09:42.660 Where sequences are similar,
+00:09:44.190 it's likely they are important
+00:09:45.870 in the protein structure and function.
+00:09:48.120 But even where the sequences are different,
+00:09:50.160 it's helpful to look at where mutations happen in pairs
+00:09:54.090 because they can identify which amino acids
+00:09:56.700 are close to each other in the final structure.
+00:09:59.550 Say two amino acids, a positively charged lysine
+00:10:02.760 and a negatively charged glutamic acid attract
+00:10:05.700 and hold each other in the folded protein.
+00:10:08.610 Now, if a mutation changes lysine
+00:10:10.800 to a negatively charged amino acid,
+00:10:13.080 it would repel glutamic acid
+00:10:15.060 and destabilize the whole protein.
+00:10:17.250 Therefore, another mutation must replace glutamic acid
+00:10:20.550 with a positively charged amino acid.
+00:10:23.340 This is known as co-evolution.
+00:10:25.860 These evolutionary tables
+00:10:27.210 were an important input for AlphaFold.
+00:10:31.620 As output, instead of directly producing a 3D structure,
+00:10:35.250 AlphaFold predicted a simpler 2D pair representation
+00:10:38.760 of that structure.
+00:10:40.020 The amino acid sequence
+00:10:41.550 is laid out horizontally and vertically.
+00:10:43.980 Whenever two amino acids are close
+00:10:45.870 to each other in the final structure,
+00:10:47.400 their corresponding row column intersection is bright.
+00:10:52.290 Distant amino acid pairs are dim.
+00:10:56.940 In addition to distances,
+00:10:58.170 the pair representation can also hold information
+00:11:00.600 on how amino acid molecules are twisted
+00:11:03.120 within the structure.
+00:11:05.130 AlphaFold 1 fed the protein sequence
+00:11:07.230 and its evolutionary table into its deep neural network,
+00:11:10.320 which it had trained to predict the pair representation.
+00:11:14.010 Once it had this, a separate algorithm folded
+00:11:16.500 the amino acid string based
+00:11:18.090 on the distance and torsion constraints.
+00:11:20.640 And this was the final protein structure prediction.
+00:11:24.480 With this framework, AlphaFold entered CASP 13
+00:11:28.110 and it immediately turned heads.
+00:11:31.080 It was the clear winner after many additions,
+00:11:34.680 but it wasn't perfect.
+00:11:36.720 Its score of 70 was not enough
+00:11:38.610 to clear the CASP threshold of 90.
+00:11:42.600 DeepMind needed to get back to the drawing board
+00:11:44.760 to get better results.
+00:11:46.140 So Hassabis recruited John Jumper to lead AlphaFold.
+00:11:50.077 - AlphaFold 2 was really a system about designing
+00:11:52.980 our deep learning.
+00:11:54.120 The individual blocks to be good at learning about proteins,
+00:11:57.210 have the types of geometric physical, evolutionary concepts
+00:12:01.320 that were needed and put it into the middle of the network
+00:12:03.630 instead of a process around it.
+00:12:04.860 And that was a tremendous accuracy boost.
+00:12:07.380 - [Derek] There were three key steps to get better results with AI.
+00:12:11.040 First, maximum compute power.
+00:12:13.680 Here, DeepMind was already better positioned
+00:12:15.930 than anybody in the world.
+00:12:18.180 It had access to the enormous computing power of Google,
+00:12:21.060 including their tensor processing units.
+00:12:24.180 Second, they needed a large and diverse data set.
+00:12:27.660 Is data the biggest roadblock and why?
+00:12:31.200 - I think it's too easy to say data's the roadblock
+00:12:33.960 and we should be careful about it.
+00:12:34.793 AlphaFold 2 was trained on the exact same data with much,
+00:12:37.740 much better machine learning as AlphaFold 1.
+00:12:41.430 So everyone overestimates the data blockage
+00:12:44.160 because it gets less severe with better machine learning.
+00:12:48.840 - [Derek] And that was the third key element, better AI algorithms.
+00:12:53.010 Now AI is not just good at protein folding.
+00:12:56.040 It can do all kinds of tasks
+00:12:57.750 that no one likes from writing emails
+00:12:59.850 to answering phone calls.
+00:13:01.620 Something I hate is building and maintaining a website.
+00:13:04.950 It's so much work from optimizing the website
+00:13:07.680 for different platforms, finding a good design
+00:13:09.900 so it looks professional to constantly updating it
+00:13:12.840 with new information about the business as it grows.
+00:13:16.260 That's why we partnered with Hostinger,
+00:13:18.270 the sponsor of today's video.
+00:13:20.370 Hostinger makes it super easy to build a website
+00:13:22.980 for yourself or your business.
+00:13:24.390 And with their advanced AI tools, you can simply describe
+00:13:28.020 what you want your website to look like.
+00:13:30.090 And in just a few seconds,
+00:13:31.260 your personalized website is up and running.
+00:13:34.170 Hostinger is designed to be as easy as possible
+00:13:36.870 for beginners and professionals.
+00:13:38.520 So any tweaks you need to make
+00:13:40.230 after that are super easy too.
+00:13:42.330 Just drag and drop any pictures
+00:13:43.890 or videos you want, where you want them,
+00:13:46.110 or just type what you want to say
+00:13:48.180 or have the AI help you here too,
+00:13:49.950 if writing isn't your thing either.
+00:13:51.690 And if you still want that human touch, Hostinger
+00:13:53.820 is always available
+00:13:54.960 with 24/7 support if you ever run into any issues.
+00:13:57.990 But when you're done building in just a few clicks,
+00:13:59.970 your website is live.
+00:14:01.740 It's all incredibly affordable too, with a domain
+00:14:04.290 and business email included for free.
+00:14:06.720 So to take your big idea online today,
+00:14:08.790 visit hostinger.com/ve or scan this QR code right here.
+00:14:13.950 And when you sign up, remember to use code VE at checkout
+00:14:17.280 to get 10% off your plan.
+00:14:19.290 I wanna thank Hostinger for sponsoring
+00:14:20.910 this part of the video.
+00:14:21.870 And now back to protein folding.
+00:14:24.660 As the AlphaFold 2 team searched for better algorithms,
+00:14:27.540 they turned to the transformer.
+00:14:29.340 That's the T in ChatGPT.
+00:14:31.950 And it relies on a concept called attention.
+00:14:35.100 In the sentence,
+00:14:35.933 the animal didn't cross the street because it was too tired.
+00:14:39.450 Attention recognizes that it refers to animal
+00:14:42.300 and not street based on the word tired.
+00:14:45.750 Attention adds context to any kind of sequential information
+00:14:49.380 by breaking it down into chunks,
+00:14:51.510 converting these into numerical representations
+00:14:53.730 or embeddings and making connections between them.
+00:14:56.910 In this case, the word it and animal.
+00:15:00.030 3Blue1Brown has a great series
+00:15:01.860 of videos specifically about transformers and attention.
+00:15:06.210 Large language models use attention
+00:15:07.950 to predict the most appropriate word to add to a sentence,
+00:15:10.860 but AlphaFold also has sequential information,
+00:15:13.740 not sentences, but amino acid sequences.
+00:15:17.100 And to analyze them,
+00:15:18.150 the AlphaFold team built their own version
+00:15:20.460 of the transformer called an EVO Former.
+00:15:24.090 The EVO Former contained two towers,
+00:15:26.790 evolutionary information in the biology tower
+00:15:29.520 and pair representations in the geometry tower.
+00:15:33.090 Gone was AlphaFold 1's deep neural network that started
+00:15:36.180 with one tower and predicted the other.
+00:15:38.400 Instead, AlphaFold 2's EVO Former
+00:15:40.620 builds each tower separately.
+00:15:42.480 It starts with some initial guesses,
+00:15:44.550 evolutionary tables taken from known data sets as before,
+00:15:48.150 and the pair representations
+00:15:49.560 based on similar known proteins.
+00:15:51.960 And this time there's a bridge connecting the two towers
+00:15:54.690 that conveys newly found biological and geometry clues
+00:15:58.350 back and forth.
+00:16:00.030 In the biology tower,
+00:16:01.260 attention applied on a column identifies
+00:16:03.390 amino acid sequences that have been conserved.
+00:16:06.540 While along a row, it finds amino acid mutations
+00:16:09.390 that have occurred together.
+00:16:11.070 Whenever the EVO Former finds too closely linked amino acids
+00:16:14.490 in the evolutionary table.
+00:16:15.900 It means they are important to structure
+00:16:18.210 and it sends this information to the geometry tower.
+00:16:20.910 Here attention is applied
+00:16:22.440 to help calculate distances between amino acids.
+00:16:25.410 - There's also this thing called triangular attention
+00:16:28.590 that got introduced,
+00:16:30.270 which is essentially about letting
+00:16:31.410 triplets attend to each other.
+00:16:33.270 - [Derek] For each triplet of amino acids,
+00:16:35.160 AlphaFold applies the triangle inequality.
+00:16:37.920 The sum of two sides must be greater than the third.
+00:16:41.490 This constrains how far apart
+00:16:43.320 these three amino acids can be.
+00:16:45.840 This information is used to update the pair representation,
+00:16:49.317 - And that helps the model produce like
+00:16:51.450 a self-consistent picture of the structure.
+00:16:53.840 - [Derek] If the geometry tower finds it's impossible
+00:16:56.340 for two amino acids to be close to each other,
+00:16:58.680 then it tells the first tower
+00:17:00.030 to ignore their relationship in the evolutionary table.
+00:17:03.510 This exchange of information within the EVO Former
+00:17:06.150 goes on for 48 times,
+00:17:08.069 until information within both towers is refined.
+00:17:11.250 The geometrical features learned by this network
+00:17:13.440 are passed onto AlphaFold 2's second main innovation,
+00:17:17.160 the structure module.
+00:17:18.750 - For each amino acid,
+00:17:19.920 we pick three special atoms in the amino acid
+00:17:22.980 and say that those define a frame.
+00:17:24.569 And what the network does is it imagines
+00:17:26.670 that all the amino acids start out with the origin
+00:17:29.160 and it has to predict the appropriate translation
+00:17:31.230 and rotation to move these frames
+00:17:33.300 to where they sit in the real structure.
+00:17:35.040 So that's essentially what the structure module does.
+00:17:37.170 - But the thing that sets the structure module apart
+00:17:39.990 is what it doesn't do.
+00:17:41.880 - Previously, people might have imagined that you would
+00:17:44.130 like to encode the fact that this is a chain, you know,
+00:17:47.490 and that certain residue should sit next to each other.
+00:17:50.790 We don't really explicitly tell AlphaFold that.
+00:17:53.220 It's more like we give it a bag of amino acids
+00:17:56.220 and it's allowed to position each of them separately.
+00:17:58.770 And some people have thought that that helps it
+00:18:02.040 to not get stuck in terms of where things should be placed.
+00:18:05.520 It doesn't have to always be thinking about the constraint
+00:18:07.380 of these things forming a chain,
+00:18:09.030 that's something that emerges naturally later.
+00:18:11.640 - [Derek] That's why live AlphaFold folding videos
+00:18:13.980 can show it doing some weirdly non-physical stuff.
+00:18:20.070 The structure module outputs a 3D protein,
+00:18:22.980 but it still isn't ready.
+00:18:24.870 It's recycled at least three more times
+00:18:27.000 through the Evo Former to gain a deeper understanding
+00:18:29.580 of the protein only then the final prediction is made.
+00:18:35.490 In December, 2020, DeepMind returned to a virtual CASP
+00:18:39.360 with AlphaFold 2, and this time they did it.
+00:18:43.920 - I'm going to read an email from John Moult.
+00:18:46.537 "Your group has performed amazingly well in CASP 14,
+00:18:50.340 both relative to other groups
+00:18:52.350 and in absolute model accuracy.
+00:18:54.840 Congratulations on this work."
+00:18:57.450 - [Derek] For many proteins, AlphaFold 2 predictions
+00:19:00.090 were virtually indistinguishable from the actual structures
+00:19:03.930 and they finally beat the gold standard score of 90.
+00:19:10.470 - For me, having worked on this problem so long,
+00:19:13.470 after many, many stops and starts,
+00:19:16.050 and suddenly this is a solution.
+00:19:17.880 We'd solved the problem.
+00:19:19.440 This gives you such excitement about the way science works.
+00:19:23.280 - [Derek] Over six decades, all of the scientists working
+00:19:26.100 around the world on proteins painstakingly found
+00:19:29.010 about 150,000 protein structures.
+00:19:32.670 Then in one fell swoop, AlphaFold came in
+00:19:35.940 and unveiled over 200 million of them.
+00:19:39.630 Nearly all proteins known to exist in nature.
+00:19:43.620 In just a few months, AlphaFold advanced the work
+00:19:46.770 of research labs worldwide by several decades.
+00:19:51.030 It has directly helped us develop a vaccine for malaria.
+00:19:55.020 It's made possible the breaking down
+00:19:57.090 of antibiotic resistance enzymes,
+00:19:59.070 which make many life-saving drugs effective again.
+00:20:02.340 It's even helped us understand
+00:20:03.540 how protein mutations lead
+00:20:04.830 to various diseases from schizophrenia to cancer,
+00:20:07.800 and biologists studying little known
+00:20:09.690 and endangered species suddenly
+00:20:11.640 had access to proteins and their life mechanism.
+00:20:15.630 The AlphaFold 2 paper has been cited over 30,000 times.
+00:20:19.740 It has truly made a step function leap
+00:20:22.320 in our understanding of life.
+00:20:24.870 John Jumper and Demis Hassabis were awarded one half
+00:20:27.540 of the 2024 Nobel Prize in chemistry for this breakthrough.
+00:20:30.900 The other half went to David Baker,
+00:20:33.000 but not for predicting structures using Rosetta.
+00:20:35.700 Instead, it was for designing
+00:20:37.410 completely new proteins from scratch.
+00:20:40.170 - It was really hard to make brand new proteins
+00:20:42.240 that would do things.
+00:20:43.320 And so that's kind of the problem that we solved.
+00:20:45.510 - To do so, he uses the same kind of generative AI
+00:20:48.630 that makes art in programs like Dall-E.
+00:20:51.630 - You can say draw a picture
+00:20:52.770 of a kangaroo riding on a rabbit
+00:20:54.210 or something, and it will do that.
+00:20:56.628 And so it's exactly what we did with proteins.
+00:20:58.560 - His technique called "RF Diffusion" is trained
+00:21:01.680 by adding random noise to a known protein structure,
+00:21:04.800 and then the AI has to remove this noise.
+00:21:07.830 Once trained in this way, the AI can be asked
+00:21:10.290 to produce proteins for various functions.
+00:21:12.660 It's given a random noise input,
+00:21:14.760 and the AI figures out a brand new protein
+00:21:17.730 that does what you asked it to do.
+00:21:20.400 This work has huge implications.
+00:21:22.950 I mean, imagine you got bitten by a venomous snake.
+00:21:25.819 If you're lucky, you'll have access to anti-venom prepared
+00:21:29.070 by milking venom from the exact kind of snake,
+00:21:32.130 which is then injected into live animals,
+00:21:35.100 and the antibodies from that animal are extracted
+00:21:37.800 and refined and then given to you as an anti-venom.
+00:21:41.610 The trouble is often people have allergic reactions
+00:21:44.340 to these antibodies from other organisms.
+00:21:46.890 But your odds of survival can be a lot better
+00:21:48.780 with the latest synthetic proteins designed in Baker's lab.
+00:21:52.200 They've created human compatible antibodies
+00:21:54.570 that can neutralize lethal snake venom.
+00:21:57.120 This anti-venom could be manufactured in large quantities
+00:22:00.240 and easily transported to the places where it's needed.
+00:22:03.960 With these tiny molecular machines,
+00:22:05.940 the possibilities are endless.
+00:22:07.950 What are the applications you're most excited about?
+00:22:10.380 - So I think vaccines are gonna be really powerful.
+00:22:12.930 We have a number of proteins
+00:22:14.100 that are in human clinical trials for cancer,
+00:22:16.260 and we're working on autoimmune disease now.
+00:22:18.180 We're really excited about problems
+00:22:19.950 like capturing greenhouse gases.
+00:22:21.570 So we're designing enzymes
+00:22:22.920 that can fix methane, break down plastic.
+00:22:26.640 - What makes this approach so effective is
+00:22:28.890 how fast they can create and iterate the proteins.
+00:22:32.550 - It's really quite miraculous
+00:22:34.440 for anyone who's a conventional school biochemist
+00:22:36.840 or protein scientist.
+00:22:38.190 We can now have designs on the computer,
+00:22:40.830 get the amino acid sequence of the design proteins,
+00:22:43.530 and then in just a couple days we can get the protein out.
+00:22:48.060 Yeah. We've given a name to this,
+00:22:49.320 which is "Cowboy Biochemistry"
+00:22:51.210 because we just like, you just got kind of go for it
+00:22:54.750 as fast as you can, and it turns out to work pretty well.
+00:22:58.050 - What AI has done for proteins is just a hint
+00:23:00.840 of what it can do in other fields
+00:23:02.880 and on larger scales.
+00:23:05.070 In materials science, for example,
+00:23:06.840 DeepMind's GNoME program has found 2.2 million new crystals,
+00:23:11.220 including over 400,000 stable materials
+00:23:14.250 that could power future technologies
+00:23:15.900 from superconductors to batteries.
+00:23:18.840 AI is creating transformative leaps in science
+00:23:21.840 by helping to solve some of the fundamental problems
+00:23:24.240 that have blocked human progress.
+00:23:26.550 - If we think of the whole tree of knowledge,
+00:23:28.320 you know there are certain problems
+00:23:29.550 where you know if their root, no problems.
+00:23:31.530 If you unlock them, if you discover a solution to them,
+00:23:33.870 it would unlock a whole new branch or avenue of discovery.
+00:23:38.100 - And with this, AI is pushing forward the boundaries
+00:23:41.430 of human knowledge at a rate never seen before.
+00:23:44.760 - Speed ups of 2x are nice,
+00:23:46.860 they're great, we love them.
+00:23:48.810 Speed ups of a 100,000x, change what you do.
+00:23:53.250 You do fundamentally different stuff
+00:23:55.800 and you start to rebuild your science
+00:23:58.740 around the things that got easy.
+00:24:01.350 - And that's what I'm excited about.
+00:24:03.780 These discoveries represent real step function
+00:24:06.600 changes in science.
+00:24:08.400 Even if AI doesn't advance beyond where it is today,
+00:24:10.920 we will be reaping the benefits
+00:24:12.690 of these breakthroughs for decades.
+00:24:15.000 And assuming AI does continue to develop,
+00:24:17.520 well, it will open up opportunities
+00:24:19.320 that were previously thought impossible.
+00:24:21.390 Whether that's curing all diseases,
+00:24:23.940 creating novel materials,
+00:24:25.380 or restoring the environment to a pristine state.
+00:24:29.430 This sounds like an amazing future as long
+00:24:32.790 as the AI doesn't take over and destroy us all first.
+00:24:36.639 (slow cosmic music)

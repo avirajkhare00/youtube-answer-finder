@@ -40,7 +40,7 @@ app.post('/search', async (req, res) => {
     // Search Pinecone
     const queryResponse = await index.query({
       vector: vector,
-      topK: 1,
+      topK: 3,
       includeValues: true,
       includeMetadata: true
     });
@@ -49,15 +49,17 @@ app.post('/search', async (req, res) => {
       return res.status(404).json({ message: "No relevant results found" });
     }
 
-    const match = queryResponse.matches[0];
-    const { video_id, start_time, text } = match.metadata;
-
-    res.json({
-      video_id,
-      video_url: `https://youtu.be/${video_id}?t=${start_time}`,
-      text,
-      start_time
+    const results = queryResponse.matches.map(match => {
+      const { video_id, start_time, text } = match.metadata;
+      return {
+        video_id,
+        video_url: `https://youtu.be/${video_id}?t=${start_time}`,
+        text,
+        start_time
+      };
     });
+
+    res.json(results);
   } catch (error) {
     console.error('Search error:', error);
     res.status(500).json({ message: "Internal server error" });
