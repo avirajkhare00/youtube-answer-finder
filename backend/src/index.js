@@ -5,7 +5,11 @@ const { OpenAI } = require('openai');
 const { Pinecone } = require('@pinecone-database/pinecone');
 
 const app = express();
+const path = require('path');
 const port = process.env.PORT || 3001;
+
+// Serve static files from the React app
+app.use(express.static(path.join(__dirname, '../public')));
 
 // Initialize OpenAI
 const openai = new OpenAI({
@@ -64,6 +68,12 @@ app.post('/search', async (req, res) => {
     console.error('Search error:', error);
     res.status(500).json({ message: "Internal server error" });
   }
+});
+
+// The "catch-all" handler: for any request that doesn't
+// match one above, send back React's index.html file.
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../public/index.html'));
 });
 
 // Start server
