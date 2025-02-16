@@ -12,8 +12,6 @@ import {
 } from '@mui/material';
 import axios from 'axios';
 
-const API_URL = process.env.REACT_APP_API_URL || 'http://localhost:3001';
-
 function App() {
   const [query, setQuery] = useState('');
   const [result, setResult] = useState(null);
@@ -27,7 +25,7 @@ function App() {
     setResult(null);
 
     try {
-      const response = await axios.post(`${API_URL}/search`, { query });
+      const response = await axios.post('/search', { query });
       setResult(response.data);
     } catch (err) {
       setError(err.response?.data?.message || 'An error occurred while searching');

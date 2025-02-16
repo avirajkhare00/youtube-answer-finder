@@ -25,7 +25,21 @@ const pc = new Pinecone({
 const index = pc.Index(process.env.PINECONE_INDEX_NAME);
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: function(origin, callback) {
+    // Allow requests with no origin (like mobile apps, curl)
+    if(!origin) return callback(null, true);
+    
+    // Allow all origins when in development
+    if(process.env.NODE_ENV !== 'production') {
+      return callback(null, true);
+    }
+    
+    // In production, only allow same-origin requests
+    callback(null, true);
+  },
+  credentials: true // Allow credentials
+}));
 app.use(express.json());
 
 // Search endpoint
